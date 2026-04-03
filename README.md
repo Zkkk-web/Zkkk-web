@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Bacy !
+# Hi, I'm Bacy !
 
 > *"Our existence is rooted in curiosity."*
 
@@ -6,15 +6,15 @@
 
 ## 🙋‍♀️ About Me
 
-🎓 Wenzhou-Kean University · Computer Science · Class of 2027
+🎓 WKU· CPS · 2027
 
 🎯 Seeking · Java Backend Development Intern
 
 🏙️ Based in · Wenzhou, China · heading to Shenzhen
 
-💡 Interested in · FinTech · Quantitative Finance · Independent Development
+💡 Interested in · FinTech · Quantitative Finance · Blockchain
 
-☕ Off the screen · solo walks in the sun · coffee shops · exploring new cities
+☕ Like basking in the sun
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 💼 Internship
 
-**Software Test Engineer Intern · 翰林科技有限公司**
+**Software Test Engineer Intern · Hanlin Technology Co., LTD **
 🗓️ Jan 2026 – Feb 2026
 
 - Participated in functional testing and bug tracking for education + AI products
