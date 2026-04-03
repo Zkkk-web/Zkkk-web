@@ -34,7 +34,8 @@
 
 ## Inter
 
-**Software Test Engineer Intern · Hanlin Technology Co., LTD **
+**Software Test Engineer Intern · Hanlin Technology Co., LTD**
+
 🗓️ Jan 2026 – Feb 2026
 
 ---
