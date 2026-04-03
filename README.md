@@ -1,20 +1,6 @@
-# Hi, I'm Bacy !
+## Hi, I'm Bacy !
 
 > *"Our existence is rooted in curiosity."*
-
----
-
-## 🙋‍♀️ About Me
-
-🎓 WKU· CPS · 2027
-
-🎯 Seeking · Java Backend Development Intern
-
-🏙️ Based in · Wenzhou, China · heading to Shenzhen
-
-💡 Interested in · FinTech · Quantitative Finance · Blockchain
-
-☕ Like basking in the sun
 
 ---
 
@@ -38,22 +24,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+## About Me
 
-## 💼 Internship
+🎯 Seeking · Java Backend Development Intern
 
-**Software Test Engineer Intern · Hanlin Technology Co., LTD **
-🗓️ Jan 2026 – Feb 2026
-
-- Participated in functional testing and bug tracking for education + AI products
-- Collaborated with development team on issue reporting and regression testing
+💡 FinTech · Quantitative Finance · Blockchain
 
 ---
 
-## 🌱 Currently Learning
+## Inter
 
-- Java Backend · Spring Boot · MySQL
-- Data Structures & Algorithms · LeetCode HOT 100
-- Building toward a full-stack Java project
+**Software Test Engineer Intern · Hanlin Technology Co., LTD **
+🗓️ Jan 2026 – Feb 2026
 
 ---
 
@@ -64,4 +46,4 @@
 
 ---
 
-💬 *Welcome to connect, collaborate, or just say hi!*
+💬 *Welcome to connect, collaborate, or just say hi~*
