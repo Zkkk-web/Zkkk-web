@@ -35,7 +35,7 @@ Investment · Blockchain
 
 Software Test Engineer Intern · Hanlin Technology Co., LTD                 
 
-Jan 2026 – Feb 2026
+Dec 2025 – Feb 2026
 
 
 >**Contact Me**
