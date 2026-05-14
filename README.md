@@ -26,9 +26,8 @@ Tools
 
 >**About Me**
 
-Seeking · Java Backend Development / Full-stack Intern
+Seeking · Product position
 
-Investment · Blockchain 
 
  
 >**Inter**
