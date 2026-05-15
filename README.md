@@ -26,7 +26,7 @@ Tools
 
 >**About Me**
 
-Seeking · Product position
+Seeking · Product position internship
 
 
  
