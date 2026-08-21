@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Selected projects</title>
+  <desc id="desc">Six white project cards move slowly from right to left in an infinite loop, fading softly at both edges.</desc>
+  <defs>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#111827" flood-opacity=".06"/>
+    </filter>
+    <linearGradient id="edgeGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="black"/>
+      <stop offset=".08" stop-color="white"/>
+      <stop offset=".92" stop-color="white"/>
+      <stop offset="1" stop-color="black"/>
+    </linearGradient>
+    <mask id="edgeFade"><rect width="1200" height="340" fill="url(#edgeGradient)"/></mask>
+
+    <g id="cards" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+      <g transform="translate(0 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">A guided job-search flow—from</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">career profile to tailored resume</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">and safer applications.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#FFB7B2"/><text x="38" y="239" fill="white" font-size="16" font-weight="700">AR</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">Agent resume platform</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">Python · Agent skill</text>
+      </g>
+
+      <g transform="translate(354 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">Compares career paths, financial</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">trade-offs, and turns uncertainty</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">into a 30–90 day action plan.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#B8CDB8"/><text x="37" y="239" fill="white" font-size="16" font-weight="700">CF</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">Career freedom compass</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">Python · Agent skill</text>
+      </g>
+
+      <g transform="translate(708 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">Watches public-account updates,</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">keeps delivery state, and brings</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">new articles into Feishu.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#BFC0DB"/><text x="36" y="239" fill="white" font-size="16" font-weight="700">WS</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">WeChat subscription</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">JavaScript · Content workflow</text>
+      </g>
+
+      <g transform="translate(1062 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">Receives external events and</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">keeps a recruiting agent online,</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">healthy, and observable.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#292524"/><text x="36" y="239" fill="white" font-size="16" font-weight="700">HA</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">Headhunter agent backend</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">JavaScript · Private repository</text>
+      </g>
+
+      <g transform="translate(1416 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">A configurable workspace for</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">AI-assisted email drafts, always</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">reviewed by a human before send.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#D5CCE4"/><text x="36" y="239" fill="white" font-size="16" font-weight="700">CR</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">Codex reply studio</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">JavaScript · Private repository</text>
+      </g>
+
+      <g transform="translate(1770 28)" filter="url(#shadow)">
+        <rect width="330" height="276" rx="22" fill="white" stroke="#E5E7EB"/>
+        <text x="26" y="57" fill="#D1D5DB" font-size="42" font-weight="800">”</text>
+        <text x="26" y="101" fill="#111827" font-size="17" font-weight="500">Tracks applications with a status</text>
+        <text x="26" y="129" fill="#111827" font-size="17" font-weight="500">pipeline, Kanban board, and</text>
+        <text x="26" y="157" fill="#111827" font-size="17" font-weight="500">AI-assisted JD parsing.</text>
+        <line x1="26" y1="199" x2="304" y2="199" stroke="#ECEFF3"/>
+        <circle cx="46" cy="233" r="18" fill="#F3C5A5"/><text x="38" y="239" fill="white" font-size="16" font-weight="700">AT</text>
+        <text x="76" y="229" fill="#111827" font-size="15" font-weight="700">ApplyTrack</text>
+        <text x="76" y="250" fill="#9CA3AF" font-size="12">Flask · Web application</text>
+      </g>
+    </g>
+  </defs>
+
+  <rect width="1200" height="340" fill="#FFFFFF"/>
+  <g mask="url(#edgeFade)" transform="translate(-150 0)">
+    <g id="movingTrack">
+      <use href="#cards"/>
+      <use href="#cards" x="2124"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-2124 0" dur="48s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

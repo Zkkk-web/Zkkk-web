@@ -17,21 +17,16 @@ I'm **Bacy Zhu**, a product-minded builder based in Zhejiang, China. I like turn
 
 ## Selected work
 
-<a href="https://github.com/Zkkk-web/Agent-Resume-Submission-Platform">
-  <img src="./assets/project-resume-agent.svg" alt="Agent Resume Submission Platform — a human-in-the-loop workflow for career profiles, job discovery, tailored resumes, and safer applications" width="100%">
-</a>
+<img src="./assets/projects-marquee.svg" alt="Six selected projects moving slowly from right to left in an infinite card marquee" width="100%">
 
-<a href="https://github.com/Zkkk-web/career-freedom-compass">
-  <img src="./assets/project-career-compass.svg" alt="Career Freedom Compass — an agent skill that turns career uncertainty into comparable paths, financial models, and next actions" width="100%">
-</a>
-
-<a href="https://github.com/Zkkk-web/codex-reply-studio">
-  <img src="./assets/project-reply-studio.svg" alt="Codex Reply Studio — a human-reviewed workspace for rule-based and AI-assisted email replies" width="100%">
-</a>
-
-<a href="https://github.com/Zkkk-web/WeChat-subscription">
-  <img src="./assets/project-wechat-subscription.svg" alt="WeChat Subscription Workflow — a resilient pipeline that watches public-account updates and delivers them to Feishu" width="100%">
-</a>
+<p align="center">
+  <a href="https://github.com/Zkkk-web/Agent-Resume-Submission-Platform">Agent resume platform ↗</a> ·
+  <a href="https://github.com/Zkkk-web/career-freedom-compass">Career freedom compass ↗</a> ·
+  <a href="https://github.com/Zkkk-web/WeChat-subscription">WeChat subscription ↗</a><br>
+  <a href="https://github.com/Zkkk-web/headhunter-agent-backend">Headhunter backend (private) ↗</a> ·
+  <a href="https://github.com/Zkkk-web/codex-reply-studio">Reply studio (private) ↗</a> ·
+  <a href="https://github.com/Zkkk-web/job-application-tracker">ApplyTrack ↗</a>
+</p>
 
 ## My working palette
 
