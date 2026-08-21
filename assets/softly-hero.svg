@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Bacy Zhu — calm systems for complicated work</title>
-  <desc id="desc">A warm pastel profile banner with softly blurred coral and lavender shapes, tactile grain, and rounded typography.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Making complicated work feel lighter.</title>
+  <desc id="desc">The headline appears one character at a time, with fifty milliseconds between characters.</desc>
   <defs>
-    <clipPath id="card"><rect width="1200" height="520" rx="52"/></clipPath>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="56"/></filter>
-    <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#292524" flood-opacity=".07"/></filter>
-    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="4" seed="17" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+    <clipPath id="card"><rect width="1200" height="420" rx="48"/></clipPath>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="58"/></filter>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="4" seed="23" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        .typed { opacity: 1 !important; }
+      }
+    </style>
   </defs>
   <g clip-path="url(#card)">
-    <rect width="1200" height="520" fill="#FDFCF8"/>
-    <ellipse cx="1060" cy="98" rx="220" ry="150" fill="#E6E6FA" opacity=".72" filter="url(#blur)"/>
-    <ellipse cx="154" cy="438" rx="250" ry="180" fill="#FFE4E1" opacity=".82" filter="url(#blur)"/>
-    <ellipse cx="890" cy="500" rx="250" ry="110" fill="#E8EFE8" opacity=".76" filter="url(#blur)"/>
-    <g filter="url(#shadow)"><rect x="56" y="34" width="1088" height="68" rx="34" fill="white" fill-opacity=".72" stroke="#E7E5E4"/></g>
-    <circle cx="92" cy="68" r="18" fill="#FFB7B2"/><circle cx="92" cy="68" r="5" fill="white"/>
-    <text x="124" y="75" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.8">BACY.ZHU</text>
-    <text x="833" y="74" fill="#78716C" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="15" font-weight="500">PRODUCT × AI</text>
-    <rect x="958" y="48" width="164" height="40" rx="20" fill="#292524"/><circle cx="982" cy="68" r="5" fill="#FFB7B2"/>
-    <text x="996" y="74" fill="white" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="14" font-weight="600">OPEN TO ROLES</text>
-    <text x="82" y="214" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="70" font-weight="650" letter-spacing="-2.2">I make</text>
-    <text x="306" y="214" fill="#D97873" font-family="'Reenie Beanie', 'Bradley Hand', 'Comic Sans MS', cursive" font-size="84">calm</text>
-    <text x="494" y="214" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="70" font-weight="650" letter-spacing="-2.2">systems</text>
-    <text x="82" y="295" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="70" font-weight="650" letter-spacing="-2.2">for complicated work.</text>
-    <text x="86" y="350" fill="#78716C" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="22">Product-minded builder exploring AI agents, career tools,</text>
-    <text x="86" y="380" fill="#78716C" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="22">and human-friendly systems—one useful loop at a time.</text>
-    <g filter="url(#shadow)" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="16" font-weight="600">
-      <rect x="82" y="426" width="166" height="54" rx="27" fill="#FFB7B2"/><text x="117" y="460" fill="#292524">Product thinking</text>
-      <rect x="260" y="426" width="130" height="54" rx="27" fill="white" stroke="#E7E5E4"/><text x="293" y="460" fill="#292524">AI agents</text>
-      <rect x="402" y="426" width="166" height="54" rx="27" fill="#E8EFE8"/><text x="435" y="460" fill="#292524">Gentle systems</text>
-    </g>
-    <rect width="1200" height="520" filter="url(#grain)" opacity=".35" style="mix-blend-mode:overlay"/>
+    <rect width="1200" height="420" fill="#FDFCF8"/>
+    <ellipse cx="1050" cy="54" rx="240" ry="150" fill="#E6E6FA" opacity=".72" filter="url(#blur)"/>
+    <ellipse cx="90" cy="390" rx="250" ry="155" fill="#FFE4E1" opacity=".82" filter="url(#blur)"/>
+    <ellipse cx="930" cy="430" rx="260" ry="115" fill="#E8EFE8" opacity=".76" filter="url(#blur)"/>
+
+    <circle cx="84" cy="67" r="17" fill="#FFB7B2"/><circle cx="84" cy="67" r="5" fill="white"/>
+    <text x="116" y="74" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.8">BACY.ZHU</text>
+    <text x="1018" y="73" fill="#78716C" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="end" letter-spacing="1.2">PRODUCT × AI</text>
+
+    <text x="76" y="216" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-2" xml:space="preserve">
+      <tspan class="typed" opacity="0">M<set attributeName="opacity" to="1" begin=".25s" fill="freeze"/></tspan><tspan class="typed" opacity="0">a<set attributeName="opacity" to="1" begin=".30s" fill="freeze"/></tspan><tspan class="typed" opacity="0">k<set attributeName="opacity" to="1" begin=".35s" fill="freeze"/></tspan><tspan class="typed" opacity="0">i<set attributeName="opacity" to="1" begin=".40s" fill="freeze"/></tspan><tspan class="typed" opacity="0">n<set attributeName="opacity" to="1" begin=".45s" fill="freeze"/></tspan><tspan class="typed" opacity="0">g<set attributeName="opacity" to="1" begin=".50s" fill="freeze"/></tspan><tspan class="typed" opacity="0"> <set attributeName="opacity" to="1" begin=".55s" fill="freeze"/></tspan><tspan class="typed" opacity="0">c<set attributeName="opacity" to="1" begin=".60s" fill="freeze"/></tspan><tspan class="typed" opacity="0">o<set attributeName="opacity" to="1" begin=".65s" fill="freeze"/></tspan><tspan class="typed" opacity="0">m<set attributeName="opacity" to="1" begin=".70s" fill="freeze"/></tspan><tspan class="typed" opacity="0">p<set attributeName="opacity" to="1" begin=".75s" fill="freeze"/></tspan><tspan class="typed" opacity="0">l<set attributeName="opacity" to="1" begin=".80s" fill="freeze"/></tspan><tspan class="typed" opacity="0">i<set attributeName="opacity" to="1" begin=".85s" fill="freeze"/></tspan><tspan class="typed" opacity="0">c<set attributeName="opacity" to="1" begin=".90s" fill="freeze"/></tspan><tspan class="typed" opacity="0">a<set attributeName="opacity" to="1" begin=".95s" fill="freeze"/></tspan><tspan class="typed" opacity="0">t<set attributeName="opacity" to="1" begin="1.00s" fill="freeze"/></tspan><tspan class="typed" opacity="0">e<set attributeName="opacity" to="1" begin="1.05s" fill="freeze"/></tspan><tspan class="typed" opacity="0">d<set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/></tspan><tspan class="typed" opacity="0"> <set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/></tspan>
+    </text>
+    <text x="76" y="296" fill="#292524" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-2" xml:space="preserve">
+      <tspan class="typed" opacity="0">w<set attributeName="opacity" to="1" begin="1.20s" fill="freeze"/></tspan><tspan class="typed" opacity="0">o<set attributeName="opacity" to="1" begin="1.25s" fill="freeze"/></tspan><tspan class="typed" opacity="0">r<set attributeName="opacity" to="1" begin="1.30s" fill="freeze"/></tspan><tspan class="typed" opacity="0">k<set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/></tspan><tspan class="typed" opacity="0"> <set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/></tspan><tspan class="typed" opacity="0">f<set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/></tspan><tspan class="typed" opacity="0">e<set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/></tspan><tspan class="typed" opacity="0">e<set attributeName="opacity" to="1" begin="1.55s" fill="freeze"/></tspan><tspan class="typed" opacity="0">l<set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/></tspan><tspan class="typed" opacity="0"> <set attributeName="opacity" to="1" begin="1.65s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">l<set attributeName="opacity" to="1" begin="1.70s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">i<set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">g<set attributeName="opacity" to="1" begin="1.80s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">h<set attributeName="opacity" to="1" begin="1.85s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">t<set attributeName="opacity" to="1" begin="1.90s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">e<set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">r<set attributeName="opacity" to="1" begin="2.00s" fill="freeze"/></tspan><tspan class="typed" opacity="0" fill="#D97873">.<set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/></tspan>
+    </text>
+
+    <text x="80" y="362" fill="#78716C" font-family="Outfit, ui-rounded, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing=".2">Product-minded builder · AI agents · Human-friendly systems</text>
+    <rect width="1200" height="420" filter="url(#grain)" opacity=".26" style="mix-blend-mode:overlay"/>
   </g>
 </svg>
