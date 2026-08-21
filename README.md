@@ -1,46 +1,66 @@
-## Hi, Bacy
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/softly-hero-mobile.svg">
+  <img src="./assets/softly-hero.svg" alt="Bacy Zhu — product-minded builder creating calm systems for complicated work" width="100%">
+</picture>
 
-*"Pursue peace and balance--in the cloud"*
+<p align="center">
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#how-i-work">How I work</a> ·
+  <a href="mailto:zhukeb@kean.edu">Say hello</a>
+</p>
 
+## A little about me
 
->**Tech Stack**  
- 
-Languages 
+I'm **Bacy Zhu**, a product-minded builder based in Zhejiang, China. I like turning messy human workflows into calm, testable tools—lately around AI agents, career decisions, recruiting operations, and content systems.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<kbd>Open to product internships</kbd> &nbsp; <kbd>Building with AI agents</kbd> &nbsp; <kbd>Always learning</kbd>
 
-Backend
+## Selected work
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<a href="https://github.com/Zkkk-web/Agent-Resume-Submission-Platform">
+  <img src="./assets/project-resume-agent.svg" alt="Agent Resume Submission Platform — a human-in-the-loop workflow for career profiles, job discovery, tailored resumes, and safer applications" width="100%">
+</a>
 
-Tools
+<a href="https://github.com/Zkkk-web/career-freedom-compass">
+  <img src="./assets/project-career-compass.svg" alt="Career Freedom Compass — an agent skill that turns career uncertainty into comparable paths, financial models, and next actions" width="100%">
+</a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<a href="https://github.com/Zkkk-web/codex-reply-studio">
+  <img src="./assets/project-reply-studio.svg" alt="Codex Reply Studio — a human-reviewed workspace for rule-based and AI-assisted email replies" width="100%">
+</a>
 
->**About Me**
+<a href="https://github.com/Zkkk-web/WeChat-subscription">
+  <img src="./assets/project-wechat-subscription.svg" alt="WeChat Subscription Workflow — a resilient pipeline that watches public-account updates and delivers them to Feishu" width="100%">
+</a>
 
-Seeking · Product position internship
+## My working palette
 
+`Product discovery` · `Workflow design` · `Rapid prototyping` · `AI agents` · `Python` · `JavaScript / TypeScript` · `Java`
 
- 
->**Inter**
+## How I work
 
-Software Test Engineer Intern · Hanlin Technology Co., LTD                 
+<details>
+  <summary><strong>Start with the real workflow</strong></summary>
+  <br>
+  I map the people, decisions, handoffs, and failure points before choosing the interface or stack.
+</details>
 
-Dec 2025 – Feb 2026
+<details>
+  <summary><strong>Ship the smallest useful loop</strong></summary>
+  <br>
+  I prefer one testable end-to-end path over a large speculative system, then learn from real use.
+</details>
 
+<details>
+  <summary><strong>Keep people in control</strong></summary>
+  <br>
+  For consequential actions—applications, messages, or personal data—I design explicit review and confirmation points.
+</details>
 
->**Contact Me**
+## Let's make complicated things feel lighter
 
-[![Email](https://img.shields.io/badge/Email-zhukeb@kean.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zhukeb@kean.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Zkkk--web-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zkkk-web)
+If you're building thoughtful AI products or better tools for human work, I'd love to compare notes.
 
+[Email me](mailto:zhukeb@kean.edu) · [Explore all repositories](https://github.com/Zkkk-web?tab=repositories)
 
+<sub>Designed with warm pastels, soft edges, and a little grain. Built entirely with GitHub-native Markdown and self-hosted SVG.</sub>
