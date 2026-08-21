@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/softly-hero-mobile.svg">
+  <source media="(max-width: 2000px)" srcset="./assets/softly-hero-mobile.svg">
   <img src="./assets/softly-hero.svg" alt="Making complicated work feel lighter." width="100%">
 </picture>
 
