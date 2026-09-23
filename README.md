@@ -8,7 +8,7 @@
 I'm **Bacy Zhu**, a product-minded builder based in Zhejiang, China. I like turning messy human workflows into calm, testable tools—lately around AI agents, career decisions, recruiting operations, and content systems. 
 
 <kbd>Open to product internships</kbd> &nbsp; <kbd>Building with AI agents</kbd> &nbsp; <kbd>Always learning</kbd>
- 
+  
 ## Selected work 
 
 <img src="./assets/projects-marquee.svg" alt="Six selected projects moving slowly from right to left in an infinite card marquee" width="100%">
