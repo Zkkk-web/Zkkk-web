@@ -2,7 +2,7 @@
   <source media="(max-width: 2000px)" srcset="./assets/softly-hero-mobile.svg">
   <img src="./assets/softly-hero.svg" alt="Making complicated work feel lighter." width="100%">
 </picture> 
- 
+  
 ## A little about me
   
 I'm **Bacy Zhu**, a product-minded builder based in Zhejiang, China. I like turning messy human workflows into calm, testable tools—lately around AI agents, career decisions, recruiting operations, and content systems. 
