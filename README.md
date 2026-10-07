@@ -12,7 +12,7 @@ I'm **Bacy Zhu**, a product-minded builder based in Zhejiang, China. I like turn
 ## Selected work  
   
 <img src="./assets/projects-marquee.svg" alt="Six selected projects moving slowly from right to left in an infinite card marquee" width="100%">
-
+ 
 ## Find me 
 
 If you're building thoughtful AI products or better tools for human work, I'd love to compare notes.
